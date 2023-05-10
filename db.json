@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "fgdg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDBQNJIBYvlM7Y-hDNGE15AzwyAgd0ydugTv-HS-jbVg&s",
+      "price": 0.02,
+      "id": 8
     }
   ]
 }
